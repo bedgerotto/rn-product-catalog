@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_13ce83455aebb9e1f87cacc67b5e965c7c6f6c1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_555fd382c2b82028131962a9acc286efdd3ddb93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_5c574c94f0ce990ad48964ef472f0ddedd6ca89b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_6015d58b45854741a87fee69286d4020eecd418a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_ab3b1f99b4fd3824941ac75c993e9e0d9936d254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.0_7cb42a7c377541b34f96efba0a65c959f297d981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_9974905f3d10059dc62f85490c6e1173603310d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_154339e5880f866fc6a0ba71544883026675098e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_44330b56128e2e751f951040e701fd1be6ce9afc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_205598ca6b63cf5d74d6fd1a7537f308113d8865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_a986ff48f8bda568119e111ac892d9028705636c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_9a1177bf1f95ca9fe963ea683f1654f746c9a736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_04df95c60a2df1ed8be5269ba93bf131139168e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_fe631b17c22ca1f3465f678a0cf56a1443c2fc9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_bccf0be8a3a94f8899965a4fbd31607abf0cedc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_a03d6183267781fb335a4e215a6252ef9b301ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_46d109cc75a2f91070de04e5bb2c0a2e5c17f017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_436cb479850002af2ee9f3a50656ed5519ac8904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_bac0afb67ce6329a30120d9c495f5729f3b9b328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_6323e1e6f0b9196ad6b96ef8346d22b664cb93e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_8db88e586c530517f5be7ce9b9d0d8d7fd66f2e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/bruno/projects/react-native/ProductCatalog/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_34a306b253d15be4977b98aab1302b9f3187098c.jar" />
+    </item>
+
+</items>
